@@ -1,0 +1,56 @@
+[
+  {
+    "nama": "Pempek Lenggang",
+    "harga": "Rp 30.000",
+    "deskripsi": "",
+    "gambar": "Lenggang.jpeg"
+  },
+  {
+    "nama": "Model Mie",
+    "harga": "Rp 32.000",
+    "deskripsi": "",
+    "gambar": "Model_Mie.jpeg"
+  },
+  {
+    "nama": "Pempek Adaan",
+    "harga": "Rp 8.000",
+    "deskripsi": "",
+    "gambar": "Pempek_Adaan.jpeg"
+  },
+  {
+    "nama": "Pempek Crispy",
+    "harga": "Rp 8.000",
+    "deskripsi": "",
+    "gambar": "Pempek_Crispy.jpg"
+  },
+  {
+    "nama": "Pempek Frozen isi 10 mix",
+    "harga": "Rp 80.000",
+    "deskripsi": "",
+    "gambar": "Pempek_Frozen_Mix.jpg"
+  },
+  {
+    "nama": "Pempek Kulit",
+    "harga": "Rp 8.0000",
+    "deskripsi": "",
+    "gambar": "Pempek_Kulit.jpeg"
+  },
+  {
+    "nama": "Pempek Telur",
+    "harga": "Rp 8.000",
+    "deskripsi": "",
+    "gambar": "Pempek_Telur.jpg"
+  },
+  {
+    "nama": "Pempek Telur Besar",
+    "harga": "Rp 30.000",
+    "deskripsi": "",
+    "gambar": "Pempek_Telur_Besar.jpeg"
+  },
+  {
+    "nama": "Tekwan Mie",
+    "harga": "Rp 32.000",
+    "deskripsi": "",
+    "gambar": "Tekwan.jpeg"
+  }
+]
